@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>&lt;!---preloader--&gt;</remark></note><note><remark>&lt;!--preloader end--&gt;</remark></note><olink targetdocent="index.html">G</olink> </para>
+  <para>× </para>
+  <orderedlist>
+    <listitem>
+      <para><link linkend="">about</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">service</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">service</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">contact</link> </para>
+    </listitem>
+  </orderedlist>
+  <para>© 2021 Guyo</para>
+  <para><note><remark>effect wrap start</remark></note><note><remark>effect wrap end</remark></note>Hello</para>
+  <sect1>
+    <title>I'm Guyo Halake</title>
+    <para>Software Engineer</para>
+    <para><link linkend="">More About Me</link> </para>
+    <para><inlinegraphic fileref="#guyo.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!-----home section end --&gt;</remark></note><note><remark>&lt;!-----about section start --&gt;</remark></note>About me </title>
+    <note>
+      <remark>&lt;!-----home section end --&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!-----about section start --&gt;</remark>
+    </note>
+    <para>sssss </para>
+    <para><inlinegraphic fileref="#guyo.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><note><remark>&lt;!-- social link---&gt;</remark></note><note><remark>&lt;!-- social link---&gt;</remark></note>Hi my name is Guyo Halake . I'M Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team </para>
+    <para><olink targetdocent="cv.pdf">Download CV</olink> <link linkend="">Hire Me</link> </para>
+    <para><note><remark>&lt;!---about tabs---&gt;</remark></note>skills experience education </para>
+    <para><note><remark>&lt;!---about tabs---&gt;</remark></note><note><remark>&lt;!----skills ----&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>Html</para>
+    <para>100% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>css</para>
+    <para>85% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>javascript</para>
+    <para>70% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>flutter</para>
+    <para>80% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>java</para>
+    <para>90% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>php</para>
+    <para>60% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>react</para>
+    <para>70% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>vb</para>
+    <para>80% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>c++</para>
+    <para>70% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!--item start---&gt;</remark></note>mysql</para>
+    <para>75% </para>
+    <para><note><remark>&lt;!--item end---&gt;</remark></note><note><remark>&lt;!----skills ----&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note>Jan, 2018 </para>
+    <sect2>
+      <title>full stack developer</title>
+      <sect3>
+        <title>personal project </title>
+        <para>Throughout 2018 learnt alot by reseaching and embarking on a personal project to get the skil-set</para>
+        <para><note><remark>&lt;!---timeline end --&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note>Jan, 2019 </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>embedded systems</title>
+      <sect3>
+        <title>personal project</title>
+        <para>by using programming languages such as java, c++ and vb i leart alot by making destop software </para>
+        <para><note><remark>&lt;!---timeline end --&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note>Jan, 2020 </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>App developer</title>
+      <sect3>
+        <title>personal self-tought an reseaching </title>
+        <para>experience in java and flutter as a cross-platform</para>
+        <para><note><remark>&lt;!---experence end --&gt;</remark></note><note><remark>&lt;!---education start --&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note>sep, 2018 - Sep, 2019 </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Diploma in computer and Software Engineering</title>
+      <sect3>
+        <title>N.I.B.S/h4&gt; </title>
+      </sect3>
+      <sect3>
+        <title><note><remark>&lt;!---timeline end --&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note>Sep, 2019 - Sep, 2020 </title>
+        <note>
+          <remark>&lt;!---timeline end --&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!---timeline item start--&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Advance Diploma in computer and Software Engineering</title>
+      <sect3>
+        <title>N.I.B.S</title>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!---timeline end --&gt;</remark></note><note><remark>&lt;!---timeline item start--&gt;</remark></note><note><remark>&lt;!---education end --&gt;</remark></note><note><remark>&lt;!-----about section end --&gt;</remark></note><note><remark>&lt;!-----service section start ---&gt;</remark></note>What i do</title>
+    <note>
+      <remark>&lt;!---timeline end --&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!---timeline item start--&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!---education end --&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!-----about section end --&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!-----service section start ---&gt;</remark>
+    </note>
+    <sect2>
+      <title><note><remark>&lt;!--service item start --&gt;</remark></note>App development</title>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!--service item start --&gt;</remark></note>Website design and development</title>
+      <note>
+        <remark>&lt;!--service item end --&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!--service item start --&gt;</remark></note>Graphic and UX/ul design </title>
+      <note>
+        <remark>&lt;!--service item end --&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!--service item start --&gt;</remark></note>Desktop system development</title>
+      <note>
+        <remark>&lt;!--service item end --&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!--service item start --&gt;</remark></note>Digtal marketing</title>
+      <note>
+        <remark>&lt;!--service item end --&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!--service item start --&gt;</remark></note>Great IT support </title>
+      <note>
+        <remark>&lt;!--service item end --&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!--service item start --&gt;</remark>
+      </note>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!--service item end --&gt;</remark></note><note><remark>&lt;!---service section end ----&gt;</remark></note><note><remark>&lt;!---portfolio section start ----&gt;</remark></note>latest work</title>
+    <note>
+      <remark>&lt;!--service item end --&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!---service section end ----&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!---portfolio section start ----&gt;</remark>
+    </note>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!-- portfolio filter start ----&gt;</remark></note>all Web appliaction Desktop application mobile app Digital creation </title>
+        <note>
+          <remark>&lt;!-- portfolio filter start ----&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!-- portfolio filter end ----&gt;</remark></note><note><remark>&lt;!-- portfolio items start ----&gt;</remark></note><note><remark>&lt;!-- portfolio item start ----&gt;</remark></note><inlinegraphic fileref="#projects/project1/img2.jpg" width="0.7862inch" depth="0.3929inch"/> view project </title>
+        <note>
+          <remark>&lt;!-- portfolio filter end ----&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-- portfolio items start ----&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-- portfolio item start ----&gt;</remark>
+        </note>
+        <para>phaymacy app</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--portfolio item details start--&gt;</remark></note>Project Brief:</title>
+      <note>
+        <remark>&lt;!--portfolio item details start--&gt;</remark>
+      </note>
+      <sect3>
+        <title>This is a flutter application for remote phaymacy with firebase as backend </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>project info:</title>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Date -2019 </title>
+        <listitem>
+          <title>client -personal project </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>client -personal project </title>
+        <listitem>
+          <title>Tool-fluttter,firebase, </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>Tool-fluttter,firebase, </title>
+      </sect3>
+      <sect3>
+        <title><note><remark>&lt;!--portfolio item details end--&gt;</remark></note><note><remark>&lt;!-- portfolio item end ----&gt;</remark></note><note><remark>&lt;!-- portfolio items end ----&gt;</remark></note><note><remark>&lt;!-- portfolio item start ----&gt;</remark></note><inlinegraphic fileref="#projects/project1/gym1.jpg" width="0.7862inch" depth="0.3929inch"/> view project </title>
+        <note>
+          <remark>&lt;!--portfolio item details end--&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-- portfolio item end ----&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-- portfolio items end ----&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-- portfolio item start ----&gt;</remark>
+        </note>
+        <para>fitness Website</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--portfolio item details start--&gt;</remark></note>Project Brief:</title>
+      <note>
+        <remark>&lt;!--portfolio item details start--&gt;</remark>
+      </note>
+      <sect3>
+        <title>This is a flutter application for remote phaymacy with firebase as backend </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>project info:</title>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Date -2019 </title>
+        <listitem>
+          <title>client -personal project </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>client -personal project </title>
+        <listitem>
+          <title>Tool-fluttter,firebase, </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>Tool-fluttter,firebase, </title>
+      </sect3>
+      <sect3>
+        <title><note><remark>&lt;!--portfolio item details end--&gt;</remark></note><inlinegraphic fileref="#projects/project1/desk1.jpg" width="0.7862inch" depth="0.3929inch"/> view project </title>
+        <note>
+          <remark>&lt;!--portfolio item details end--&gt;</remark>
+        </note>
+        <para>rental system</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title><note><remark>&lt;!--portfolio item details start--&gt;</remark></note>Project Brief:</title>
+      <note>
+        <remark>&lt;!--portfolio item details start--&gt;</remark>
+      </note>
+      <sect3>
+        <title>This is a flutter application for remote phaymacy with firebase as backend </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>project info:</title>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Date -2019 </title>
+        <listitem>
+          <title>client -personal project </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>client -personal project </title>
+        <listitem>
+          <title>Tool-fluttter,firebase, </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>Tool-fluttter,firebase, </title>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!--portfolio item details end--&gt;</remark></note><note><remark>&lt;!---portfolio section end ----&gt;</remark></note><note><remark>&lt;!--portfolio popup start--&gt;</remark></note>phaymacy app</title>
+    <note>
+      <remark>&lt;!--portfolio item details end--&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!---portfolio section end ----&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!--portfolio popup start--&gt;</remark>
+    </note>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Category-mobile application</title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Project Brief:</title>
+      <sect3>
+        <title>This is a flutter application for remote phaymacy with firebase as backend </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>project info:</title>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Date -2019 </title>
+        <listitem>
+          <title>client -personal project </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>client -personal project </title>
+        <listitem>
+          <title>Tool-fluttter,firebase, </title>
+        </listitem>
+      </sect3>
+      <sect3>
+        <title>Tool-fluttter,firebase, </title>
+      </sect3>
+      <sect3>
+        <title>project Details </title>
+      </sect3>
+      <sect3>
+        <title>×</title>
+      </sect3>
+      <sect3>
+        <title><inlinegraphic fileref="#projects/project1/img1.jpg" width="0.7862inch" depth="0.3929inch"/> </title>
+      </sect3>
+      <sect3>
+        <title>1 of 5</title>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!--pp nvigation--&gt;</remark></note><note><remark>&lt;!--portfolio popup end--&gt;</remark></note><note><remark>&lt;!--contact section start--&gt;</remark></note>Get In Touch</title>
+    <note>
+      <remark>&lt;!--pp nvigation--&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!--portfolio popup end--&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!--contact section start--&gt;</remark>
+    </note>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!--contact item start--&gt;</remark></note>Phone </title>
+        <note>
+          <remark>&lt;!--contact item start--&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>0715005447</title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!--contact item end--&gt;</remark></note><note><remark>&lt;!--contact item start--&gt;</remark></note>Email </title>
+        <note>
+          <remark>&lt;!--contact item end--&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!--contact item start--&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>guyohalake517@gmail.com</title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!--contact item end--&gt;</remark></note><note><remark>&lt;!--contact item start--&gt;</remark></note>00100 </title>
+        <note>
+          <remark>&lt;!--contact item end--&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!--contact item start--&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Nairobi, Kenya</title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>&lt;!--contact item end--&gt;</remark></note> </title>
+        <note>
+          <remark>&lt;!--contact item end--&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title> </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title> </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title> </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Send message </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <note>
+            <remark>&lt;!--contact section end--&gt;</remark>
+          </note>
+          <note>
+            <remark>&lt;!-----main js---&gt;</remark>
+          </note>
+        </title>
+        <note>
+          <remark>&lt;!--contact section end--&gt;</remark>
+        </note>
+        <note>
+          <remark>&lt;!-----main js---&gt;</remark>
+        </note>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>
