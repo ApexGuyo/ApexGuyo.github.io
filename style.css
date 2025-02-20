@@ -456,7 +456,6 @@ nav menu
 
 
 #theme-toggle {
-  
   position: fixed;
   border-color: var(--bg-black-50);
   padding: 0 15px;
@@ -466,7 +465,7 @@ nav menu
   height: 100%;
   z-index: 999;
   opacity: 0;
-  visibility: hidden;
+  visibility: none;
   overflow-y: auto;
 }
 
