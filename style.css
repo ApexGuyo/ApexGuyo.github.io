@@ -2,6 +2,7 @@
   --bg-black-900: #000000;
   --bg-black-100: #dddddd;
   --bg-black-50: #eff0f4;
+  
   --text-black-900: #000000;
   --text-black-700: #555555;
   --text-black-600: #666666;
@@ -39,9 +40,9 @@
   --bg-black-50: #bfc8d6;
 
   --text-black-900:  #2e2e2e;
-  --text-black-700:  #bbbbbb;
-  --text-black-600:  #555555;
-  --text-black-300: #7a7a7a;
+  --text-black-700:  #555555;
+  --text-black-600:  #7a7a7a;
+  --text-black-300: #bbbbbb;
 
   --outer-shadow: 3px 3px 3px #b8b8b8, -3px -3px 3px   #ffffff;
   --outer-shadow-0: 0 0 0 #b8b8b8, 0 0 0   #ffffff;
