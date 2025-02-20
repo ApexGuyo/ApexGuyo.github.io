@@ -15,7 +15,7 @@
 
 
 
-:root {
+/*:root {
   --bg-black-900: #1e1e1e;
   --bg-black-100:  #252525;
   --bg-black-50: #121212;
@@ -30,7 +30,24 @@
   --inner-shadow: inset 3px 3px 3px #141414, inset -3px -3px 3px  #292929;
   --inner-shadow-0: inset 0 0 0 #141414, inset 0 0 0  #292929;
 }
+*/
 
+
+:root {
+  --bg-black-900: #e0e5ec;
+  --bg-black-100:  #ffffff;
+  --bg-black-50: #bfc8d6;
+
+  --text-black-900:  #2e2e2e;
+  --text-black-700:  #bbbbbb;
+  --text-black-600:  #555555;
+  --text-black-300: #7a7a7a;
+
+  --outer-shadow: 3px 3px 3px #b8b8b8, -3px -3px 3px   #ffffff;
+  --outer-shadow-0: 0 0 0 #b8b8b8, 0 0 0   #ffffff;
+  --inner-shadow: inset 3px 3px 3px #b8b8b8, inset -3px -3px 3px   #ffffff;
+  --inner-shadow-0: inset 0 0 0 #b8b8b8, inset 0 0 0   #ffffff;
+}
 
 
 body {
