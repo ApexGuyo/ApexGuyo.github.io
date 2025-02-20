@@ -456,15 +456,18 @@ nav menu
 
 
 #theme-toggle {
-  background: var(--bg-black-900);
-  color: var(--bg-black-50);
-  box-shadow: var(--outer-shadow);
-  border-radius: 12px;
-  padding: 12px 24px;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  transition: 0.3s ease-in-out;
+  
+  position: fixed;
+  border-color: var(--bg-black-50);
+  padding: 0 15px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  overflow-y: auto;
 }
 
 #theme-toggle:hover {
