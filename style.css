@@ -1,4 +1,4 @@
-/*:root {
+:root {
   --bg-black-900: #000000;
   --bg-black-100: #dddddd;
   --bg-black-50: #eff0f4;
@@ -12,11 +12,11 @@
   --inner-shadow: inset 3px 3px 3px #d0d0d0, inset -3px -3px 3px #f8f8f8;
   --inner-shadow-0: inset 0 0 0 #d0d0d0, inset 0 0 0 #f8f8f8;
 }
-*/
 
 
 
-/*:root {
+
+.dark-mode {
   --bg-black-900: #1e1e1e;
   --bg-black-100:  #252525;
   --bg-black-50: #121212;
@@ -31,10 +31,10 @@
   --inner-shadow: inset 3px 3px 3px #141414, inset -3px -3px 3px  #292929;
   --inner-shadow-0: inset 0 0 0 #141414, inset 0 0 0  #292929;
 }
-*/
 
 
-:root {
+
+.blue-mode {
   --bg-black-900: #e0e5ec;
   --bg-black-100:  #ffffff;
   --bg-black-50: #bfc8d6;
@@ -451,6 +451,34 @@ nav menu
   transform: translateY(-50%) rotate(-90deg);
   left: -60px;
 }
+
+
+
+
+#theme-toggle {
+  background: var(--bg-black-900);
+  color: var(--bg-black-50);
+  box-shadow: var(--outer-shadow);
+  border-radius: 12px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s ease-in-out;
+}
+
+#theme-toggle:hover {
+  background: var(--accent);
+  color: #fff;
+  box-shadow: var(--outer-shadow-soft);
+}
+
+
+
+
+
+
+
 
 .home-section {
   position: relative;

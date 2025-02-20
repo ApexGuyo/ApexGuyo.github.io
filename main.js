@@ -84,6 +84,45 @@ portfolioItemContainer.addEventListener("click", (event) => {
 		}
  })
 
+
+
+
+
+
+ const themes = ["light-mode", "dark-mode", "blue-mode"];
+ let currentThemeIndex = 0;
+ 
+ const toggleTheme = () => {
+   // Remove the current theme class
+   document.body.classList.remove(...themes);
+ 
+   // Switch to the next theme
+   currentThemeIndex = (currentThemeIndex + 1) % themes.length;
+   document.body.classList.add(themes[currentThemeIndex]);
+ 
+   // Save theme preference
+   localStorage.setItem("selectedTheme", themes[currentThemeIndex]);
+ };
+ 
+ // Load theme on page load
+ document.addEventListener("DOMContentLoaded", () => {
+   const savedTheme = localStorage.getItem("selectedTheme");
+   if (savedTheme && themes.includes(savedTheme)) {
+	 document.body.classList.add(savedTheme);
+	 currentThemeIndex = themes.indexOf(savedTheme);
+   }
+ });
+ 
+ // Event listener for the button
+ document.querySelector("#theme-toggle").addEventListener("click", toggleTheme);
+ 
+
+
+
+
+
+
+ 
     closeBtn.addEventListener("click", () => {
 		popupToggle();
 	})   
