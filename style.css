@@ -15,12 +15,10 @@
 
 
 
-
-
 :root {
   --bg-black-900: #1e1e1e;
   --bg-black-100:  #252525;
-  --bg-black-50: ##121212;
+  --bg-black-50: #121212;
 
   --text-black-900: #e0e0e0;
   --text-black-700:  #bbbbbb;
@@ -32,8 +30,6 @@
   --inner-shadow: inset 3px 3px 3px #141414, inset -3px -3px 3px  #292929;
   --inner-shadow-0: inset 0 0 0 #141414, inset 0 0 0  #292929;
 }
-
-
 
 
 
