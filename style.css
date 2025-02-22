@@ -515,6 +515,35 @@ nav menu
   margin: 0;
   text-transform: capitalize;
 }
+
+
+/* Container Styling */
+    .text-container {
+      font-size: 24px;
+      font-weight: bold;
+      color: var(--text-black-700);
+      font-family: Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      text-transform: capitalize;
+    }
+
+    /* Cursor Animation */
+    .cursor {
+      display: inline-block;
+      width: 5px;
+      height: 24px;
+      background: #5a86ff;
+      margin-left: 5px;
+      animation: blink 0.7s infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+
+
 .home-section .home-text .btn-1 {
   margin-top: 30px;
 }

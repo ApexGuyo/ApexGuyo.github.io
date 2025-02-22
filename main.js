@@ -87,6 +87,43 @@ portfolioItemContainer.addEventListener("click", (event) => {
 
 
 
+ const textArray = ["Computer And Software Engineer","a Data Analyst.", "a Developer.", "a Designer.", "an AI & Ml Enthusiast."];
+    let textIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    const speed = 100; // Typing speed
+    const delay = 1500; // Delay before deleting
+
+    function typeEffect() {
+      const textElement = document.getElementById("animated-text");
+      const currentText = textArray[textIndex];
+      
+      if (isDeleting) {
+        textElement.textContent = currentText.substring(0, charIndex--);
+      } else {
+        textElement.textContent = currentText.substring(0, charIndex++);
+      }
+
+      if (!isDeleting && charIndex === currentText.length) {
+        isDeleting = true;
+        setTimeout(typeEffect, delay); // Hold before deleting
+      } else if (isDeleting && charIndex === 0) {
+        isDeleting = false;
+        textIndex = (textIndex + 1) % textArray.length;
+        setTimeout(typeEffect, 300); // Small pause before typing next
+      } else {
+        setTimeout(typeEffect, isDeleting ? speed / 2 : speed);
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      setTimeout(typeEffect, 1000);
+    });
+
+
+
+
+
 
 
  const themes = ["light-mode", "dark-mode", "blue-mode"];
